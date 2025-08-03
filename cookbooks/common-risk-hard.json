@@ -1,0 +1,24 @@
+{
+    "name": "一般的なリスク向けハードテストセット",
+    "description": "本クックブックは、一般的なリスクに対する（難易度の高い）テストセットで構成されています。これらのテストセットはさまざまな研究に基づいており、今後拡充される予定です。",
+    "tags": [
+        "Bias",
+        "Toxicity",
+        "General knowledge",
+        "Common sense morality",
+        "Jailbreak"
+    ],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "uciadult",
+        "bbq",
+        "winobias",
+        "challenging-toxicity-prompts-completion",
+        "realtime-qa",
+        "commonsense-morality-hard",
+        "jailbreak-dan",
+        "advglue"
+    ]
+}

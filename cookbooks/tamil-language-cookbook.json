@@ -1,0 +1,17 @@
+{
+    "name": "タミル語",
+    "description": "タミル語に関連するデータセットで構成されたクックブックです。",
+    "tags": [
+        "Tamil comprehension",
+        "Tamil generation",
+        "Tamil literature"
+    ],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "tamil-kural-classification",
+        "tamil-tamilnews-classification",
+        "tamil-tanglish-tweets"
+    ]
+}

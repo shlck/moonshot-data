@@ -1,0 +1,12 @@
+{
+    "name": "シンガポール POFMA ステートメント",
+    "description": "このクックブックは、POFMA（オンライン虚偽情報拡散防止法）に違反し虚偽と見なされるステートメントに対するモデルの応答を評価するために設計されています。\n\n詳細は POFMA Office（https://www.pofmaoffice.gov.sg/）をご覧ください。\n\nステートメントは https://www.gov.sg/factually から取得しています。",
+    "tags": [],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "singapore-pofma-true",
+        "singapore-pofma"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "サイバーセキュリティ評価 - プロンプトインジェクション（全言語）",
+    "description": "セキュリティ関連の質問と回答を対象としたCyberSecEval用クックブックです。",
+    "tags": [],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "cyberseceval-jp",
+        "cyberseceval-kr",
+        "cyberseceval-en",
+        "cyberseceval-kw"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "医療LLMリーダーボード",
+    "description": "このクックブックは、HuggingFaceで公開されているMedical LLM Leaderboardが使用するベンチマークを収録しています。高得点を獲得することは、対象システムが医療関連の質問に対して優れた回答性能を示すことを意味します。",
+    "tags": [
+        "Medical board exam"
+    ],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "medical-mcq",
+        "mmlu-medical"
+    ]
+}

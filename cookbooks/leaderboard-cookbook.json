@@ -1,0 +1,22 @@
+{
+    "name": "リーダーボード クックブック",
+    "description": "このクックブックは、HFのOpenLLMやHELMなどのリーダーボードに着想を得て、モデル能力を評価する代表的なベンチマークを収録しています。結果は実際のリーダーボード順位と異なる可能性があります。",
+    "tags": [
+        "MMLU",
+        "Truthfulness",
+        "Common sense reasoning",
+        "Science",
+        "Math"
+    ],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "mmlu",
+        "truthfulqa-mcq",
+        "winogrande",
+        "hellaswag",
+        "arc",
+        "gsm8k"
+    ]
+}

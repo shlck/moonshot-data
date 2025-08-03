@@ -1,0 +1,16 @@
+{
+    "name": "AISI共同テスト用クックブック - 中国語",
+    "description": "本クックブックには、安全性評価用テストデータセット「AnswerCarefully」「MlCommons」「CyberSecEval」に含まれる中国語データがすべて収録されています。このサブセットは情報ハザードに焦点を当てています。",
+    "tags": [],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "answercarefully-cn",
+        "cyberseceval-cn",
+        "mlc-ipv-cn",
+        "mlc-prv-cn",
+        "mlc-ncr-cn",
+        "mlc-vcr-cn"
+    ]
+}
