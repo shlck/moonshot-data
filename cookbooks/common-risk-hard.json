@@ -1,6 +1,6 @@
 {
-    "name": "Hard test sets for Common Risks",
-    "description": "This is a cookbook that consists (hard) test sets for common risks. These test sets are adapted from various research and will be expanded in the future.",
+    "name": "一般的なリスク向けハードテストセット",
+    "description": "本クックブックは、一般的なリスクに対する（難易度の高い）テストセットで構成されています。これらのテストセットはさまざまな研究に基づいており、今後拡充される予定です。",
     "tags": [
         "Bias",
         "Toxicity",

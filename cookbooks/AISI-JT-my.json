@@ -1,0 +1,16 @@
+{
+    "name": "AISI共同テスト用クックブック - マレー語",
+    "description": "本クックブックには、安全性評価用テストデータセット「AnswerCarefully」「MlCommons」「CyberSecEval」に含まれるマレー語データがすべて収録されています。このサブセットは情報ハザードに焦点を当てています。",
+    "tags": [],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "answercarefully-my",
+        "cyberseceval-my",
+        "mlc-ipv-my",
+        "mlc-prv-my",
+        "mlc-ncr-my",
+        "mlc-vcr-my"
+    ]
+}

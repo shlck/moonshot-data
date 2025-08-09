@@ -1,0 +1,16 @@
+{
+    "name": "AISI共同テスト用クックブック - フランス語",
+    "description": "本クックブックには、安全性評価用テストデータセット「AnswerCarefully」「MlCommons」「CyberSecEval」に含まれるフランス語データがすべて収録されています。このサブセットは情報ハザードに焦点を当てています。",
+    "tags": [],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "answercarefully-fr",
+        "cyberseceval-fr",
+        "mlc-ipv-fr",
+        "mlc-prv-fr",
+        "mlc-ncr-fr",
+        "mlc-vcr-fr"
+    ]
+}

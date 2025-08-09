@@ -1,11 +1,13 @@
 {
-    "name": "Legal Summarisation",
-    "description": "This cookbook runs general capabilitiy benchmark on legal summarisation model.",
+    "name": "法律文書要約",
+    "description": "このクックブックは、法律文書要約モデルに対して一般的な能力ベンチマークを実行します。",
     "tags": [
         "Summarisation",
         "Legal"
     ],
-    "categories": ["Capability"],
+    "categories": [
+        "Trust & Safety"
+    ],
     "recipes": [
         "analogical-similarity",
         "auto-categorisation",

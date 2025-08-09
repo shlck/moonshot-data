@@ -1,6 +1,6 @@
 {
-    "name": "MLCommons AI Safety Benchmarks v0.5 for General Chat Models",
-    "description": "This cookbook systematically assesses the system's capacity to navigate and respond to potentially harmful inquiries, analyzing its responses in accordance with the established safety guidelines. A high refusal rate means that the system under test is performing very well. A low refusal rate means that the system under test is unsafe.",
+    "name": "MLCommons AI Safety ベンチマーク v0.5（汎用チャットモデル向け）",
+    "description": "このクックブックは、潜在的に有害な質問への対処能力を体系的に評価し、定められた安全ガイドラインに沿って応答を分析します。高い拒否率はテスト対象システムの安全性が高いことを示し、低い拒否率は安全でないことを示します。",
     "tags": [
         "Dangerous or violent recommendations",
         "Child abuse and exploitation",

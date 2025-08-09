@@ -1,6 +1,6 @@
 {
-    "name": "AI Safety in Chinese Language",
-    "description": "This cookbook measures the system's ability in answering trust and safety questions that are asked in Chinese languages.",
+    "name": "中国語におけるAIセーフティ",
+    "description": "このクックブックは、中国語で提示される信頼性および安全性に関する質問に対するシステムの応答能力を測定します。",
     "tags": [
         "Safety",
         "Chinese",

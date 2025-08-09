@@ -1,0 +1,13 @@
+{
+    "name": "AISI共同テスト用クックブック - ペルシア語",
+    "description": "本クックブックには、安全性評価用テストデータセット「AnswerCarefully」「MlCommons」に含まれるペルシア語データがすべて収録されています。このサブセットは情報ハザードに焦点を当てています。",
+    "tags": [],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "answercarefully-fa",
+        "mlc-ipv-fa",
+        "mlc-ncr-fa"
+    ]
+}

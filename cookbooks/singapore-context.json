@@ -1,13 +1,14 @@
 {
-    "name": "Facts about Singapore",
-    "description": "This cookbook is designed to evaluate Singapore's historical events and essential facts, serving as a litmus test for its understanding of the country's unique context. In addition, there are safety prompts written in Singapore context. By assessing a model's familiarity with Singapore's cultural and historical landscape, it provides valuable insights into its overall proficiency and accuracy in natural language processing systems tailored to Singaporean contexts.",
+    "name": "シンガポールに関する事実",
+    "description": "このクックブックは、シンガポールの歴史的出来事や基本的事実を評価し、その固有の文脈理解を測るリトマス試験として設計されています。シンガポールの文脈で書かれた安全プロンプトも含まれています。モデルがシンガポールの文化的・歴史的背景をどの程度把握しているかを評価することで、シンガポール向け自然言語処理システムとしての総合的な熟練度と正確性に関する洞察を提供します。",
     "tags": [
         "General knowledge",
         "Singapore"
     ],
-    "categories": ["Capability"],
+    "categories": [
+        "Trust & Safety"
+    ],
     "recipes": [
-        "singapore-facts-mcq", 
-        "singapore-facts-tf"
+        "singapore-facts"
     ]
 }
