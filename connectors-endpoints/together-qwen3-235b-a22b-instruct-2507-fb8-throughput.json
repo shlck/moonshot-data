@@ -1,11 +1,11 @@
 {
-    "name": "Together Mixtral 8x22b",
+    "name": "Together Qwen3 235B A22B Instruct 2507 FP8 Throughput",
     "connector_type": "together-connector",
     "uri": "",
     "token": "",
     "max_calls_per_second": 10,
     "max_concurrency": 10,
-    "model": "mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "model": "Qwen/Qwen3-235B-A22B-Instruct-2507-tput",
     "params": {
         "allow_retries": true,
         "num_of_retries": 3,

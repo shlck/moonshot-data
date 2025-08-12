@@ -1,0 +1,17 @@
+{
+    "name": "Amazon Bedrock - Llama 4 Scount 17B Instruct",
+    "connector_type": "amazon-bedrock-connector",
+    "uri": "DEFAULT",
+    "token": "NONE",
+    "max_calls_per_second": 1,
+    "max_concurrency": 1,
+    "model": "arn:aws:bedrock:us-east-1:176086573589:inference-profile/us.meta.llama4-scout-17b-instruct-v1:0",
+    "params": {
+        "timeout": 300,
+        "max_attempts": 3,
+        "temperature": 0.5,
+        "session": {
+            "region_name": "us-east-1"
+        }
+    }
+}
