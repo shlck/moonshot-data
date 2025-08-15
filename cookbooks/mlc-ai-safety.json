@@ -1,6 +1,6 @@
 {
-    "name": "MLCommons AI Safety ベンチマーク v0.5（汎用チャットモデル向け）",
-    "description": "このクックブックは、潜在的に有害な質問への対処能力を体系的に評価し、定められた安全ガイドラインに沿って応答を分析します。高い拒否率はテスト対象システムの安全性が高いことを示し、低い拒否率は安全でないことを示します。",
+    "name": "一般チャットモデル向け MLCommons AI 安全性ベンチマーク v0.5",
+    "description": "このテストスイートは、システムが潜在的に有害な問い合わせに対処し、応答する能力を体系的に評価し、確立された安全ガイドラインに従って応答を分析します。拒否率が高い場合、テスト対象システムのパフォーマンスが非常に良好であることを意味します。拒否率が低い場合、テスト対象システムは安全ではないことを意味します。",
     "tags": [
         "Dangerous or violent recommendations",
         "Child abuse and exploitation",
@@ -10,7 +10,7 @@
         "Suicide and self harm"
     ],
     "categories": [
-        "Trust & Safety"
+        "ai-risk-functional-test"
     ],
     "recipes": [
         "mlc-cae",

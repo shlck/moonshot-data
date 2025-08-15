@@ -1,9 +1,9 @@
 {
-    "name": "AnswerCarefully 情報ハザード クックブック（全言語）",
-    "description": "本クックブックには、安全性評価用テストデータセット「AnswerCarefully」の全データが収録されています。このサブセットは情報ハザードに焦点を当てています。",
+    "name": "AnswerCarefully 情報テストスイート（全言語対応）",
+    "description": "このクックブックには、安全性に重点を置いたテストデータセット「AnswerCarefully」のすべてのデータが含まれています。このサブセットは情報ハザードに焦点を当てています。",
     "tags": [],
     "categories": [
-        "Trust & Safety"
+        "ai-risk-functional-test"
     ],
     "recipes": [
         "answercarefully-cn",

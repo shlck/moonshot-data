@@ -1,9 +1,9 @@
 {
-    "name": "サイバーセキュリティ評価 - プロンプトインジェクション（全言語）",
-    "description": "セキュリティ関連の質問と回答を対象としたCyberSecEval用クックブックです。",
+    "name": "サイバーセキュリティ評価 - すべての言語に対応したプロンプトインジェクション",
+    "description": "セキュリティ関連の質問と回答をまとめたサイバーセキュリティのテストスイート。",
     "tags": [],
     "categories": [
-        "Trust & Safety"
+        "ai-risk-functional-test"
     ],
     "recipes": [
         "cyberseceval-jp",
