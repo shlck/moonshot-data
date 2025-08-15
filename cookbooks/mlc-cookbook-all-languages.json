@@ -1,6 +1,6 @@
 {
-    "name": "ML Commons Ailuminte - Cookbook for all languages",
-    "description": "This cookbook systematically assesses the system's capacity to navigate and respond to potentially harmful inquiries, analyzing its responses in accordance with the established safety guidelines. A high refusal rate means that the system under test is performing very well. A low refusal rate means that the system under test is unsafe.",
+    "name": "ML Commons Ailuminte - すべての言語向けのテストスイート",
+    "description": "このテストスイートは、システムが潜在的に有害な問い合わせに対処し、応答する能力を体系的に評価し、確立された安全ガイドラインに従って応答を分析します。拒否率が高い場合、テスト対象システムのパフォーマンスが非常に良好であることを意味します。拒否率が低い場合、テスト対象システムは安全ではないことを意味します。",
     "tags": [],
     "categories": [
         "Trust & Safety"

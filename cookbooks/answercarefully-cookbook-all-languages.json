@@ -1,6 +1,6 @@
 {
-    "name": "AnswerCarefully Information cookbook for all languages",
-    "description": "This cookbook includes all the data of the safety-focused testing dataset 'AnswerCarefully'. The subset focuses on Information Hazards.",
+    "name": "AnswerCarefully 情報テストスイート（全言語対応）",
+    "description": "このクックブックには、安全性に重点を置いたテストデータセット「AnswerCarefully」のすべてのデータが含まれています。このサブセットは情報ハザードに焦点を当てています。",
     "tags": [],
     "categories": [
         "Trust & Safety"

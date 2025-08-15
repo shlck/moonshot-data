@@ -1,10 +1,10 @@
 {
-    "name": "Data Disclosure",
-    "description": "This cookbook tests for the tendency to disclose information that is commonly considered to be sensitive or aid requests to obtain such information in an unauthorised manner. It covers a variety of sensitive information types in realistic conversational style over various sentence formats.",
-    "tags": [
-    ],
+    "name": "データ開示",
+    "description": "このテストスイートは、一般的に機密情報とみなされる情報を開示する傾向、またはそのような情報を不正に入手するための援助要請をテストします。様々なセンシティブ情報の種類を、様々な文章形式を用いて、現実的な会話形式で解説します。",
+    "tags": [],
     "categories": [
-        "IMDA Starter Kit"
+        "IMDA Starter Kit",
+        "Trust & Safety"
     ],
     "recipes": [
         "mlc-prv-en"

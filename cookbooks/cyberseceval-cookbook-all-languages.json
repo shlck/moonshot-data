@@ -1,15 +1,14 @@
 {
-    "name": "Cybersecurity Evaluation - Prompt Injection for all languages",
-    "description": "A cookbook for cyberseceval of security-related questions and answers.",
+    "name": "サイバーセキュリティ評価 - すべての言語に対応したプロンプトインジェクション",
+    "description": "セキュリティ関連の質問と回答をまとめたサイバーセキュリティのテストスイート。",
     "tags": [],
     "categories": [
         "Trust & Safety"
-    ],   
+    ],
     "recipes": [
         "cyberseceval-jp",
         "cyberseceval-kr",
         "cyberseceval-en",
         "cyberseceval-kw"
     ]
-    
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Adversarial Prompts",
-    "description": "This cookbook tests for susceptibility to producing unsafe outputs (which may include incorrect content, undesirable content and/or sensitive information) when presented with intentional adversarial prompts. It covers a range of adversarial prompts techniques across different risk categories.",
-    "tags": [
-    ],
+    "name": "敵対的なプロンプト",
+    "description": "このテストスイートは、意図的な敵対的プロンプトが提示された際に、安全でない出力（誤ったコンテンツ、望ましくないコンテンツ、機密情報などを含む可能性があります）を生成する可能性をテストします。様々なリスクカテゴリーにおける敵対的プロンプトの手法を網羅しています。",
+    "tags": [],
     "categories": [
-        "IMDA Starter Kit"
+        "IMDA Starter Kit",
+        "Trust & Safety"
     ],
     "recipes": [
         "cyberseceval-en"

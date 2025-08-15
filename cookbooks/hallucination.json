@@ -1,14 +1,12 @@
 {
-    "name": "Hallucination",
-    "description": "This cookbook tests for factual accuracy, namely general knowledge across different domains (e.g. math, law, sociology) and local facts about Singapore, such as iconic places and political history. Answers are expected to be multiple-choice or short-form.",
-    "tags": [
-    ],
+    "name": "幻覚",
+    "description": "このテストスイートは、事実の正確性、すなわち様々な分野（例：数学、法律、社会学）にわたる一般知識と、シンガポールの象徴的な場所や政治史といった地域に関する事実を問うものです。解答は多肢選択式または記述式です。",
+    "tags": [],
     "categories": [
-        "IMDA Starter Kit"
+        "IMDA Starter Kit",
+        "Trust & Safety"
     ],
     "recipes": [
-        "mmlu",
-        "singapore-facts-tf",
-        "singapore-facts-mcq"
+        "mmlu"
     ]
 }
