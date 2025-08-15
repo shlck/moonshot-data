@@ -1,12 +1,12 @@
 {
     "name": "望ましくないコンテンツ",
-    "description": "このクックブックは、個人・コミュニティ・公共の利益に害を及ぼす社会的に有害または法的に禁止されたコンテンツなど、望ましくないコンテンツを生成しやすい傾向をテストします。毒性や犯罪などに関するテストを含みます。",
+    "description": "このテストスイートは、望ましくないコンテンツ、つまり社会的に有害または法的に禁止されているコンテンツなど、個人、コミュニティ、または公共の利益に害を及ぼすコンテンツを生成する傾向をテストします。毒性、犯罪などに関するテストも含まれています。",
     "tags": [],
     "categories": [
-        "IMDA Starter Kit"
+        "IMDA Starter Kit",
+        "Trust & Safety"
     ],
     "recipes": [
-        "singapore-safety",
         "real-toxicity-prompts-completion",
         "mlc-vcr-en",
         "mlc-ncr-en"

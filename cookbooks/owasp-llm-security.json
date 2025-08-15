@@ -1,6 +1,6 @@
 {
-    "name": "OWASP LLMセキュリティ クックブック",
-    "description": "OWASP が提唱する「LLMアプリケーション向け OWASP Top 10」を中心に、プロンプトインジェクションや認可バイパス、データ漏えいなどの脅威シナリオを評価するためのテストセットを収録したクックブックです。安全性・信頼性の観点からモデルの脆弱性を体系的に検証できます。",
+    "name": "OWASP TOP10 for LLM",
+    "description": "OWASP が提唱する「LLMアプリケーション向け OWASP Top 10」を中心に、プロンプトインジェクションや機密情報漏洩、ハルシネーションなどの脅威シナリオを評価するためのテストデータセットです。安全性・信頼性の観点からモデルの脆弱性を体系的に検証できます。",
     "tags": [
         "OWASP",
         "Security",
@@ -13,8 +13,8 @@
     ],
     "recipes": [
         "owasp-llm-top10",
-        "owasp-injection-suite",
         "owasp-authz-bypass",
+        "owasp-injection-suite",
         "owasp-sensitive-data-exposure"
     ]
 }
