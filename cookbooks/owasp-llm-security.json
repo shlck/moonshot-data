@@ -9,8 +9,12 @@
         "Vulnerability"
     ],
     "categories": [
-        "guideline-compliance-test"
+        "Capability"
     ],
     "recipes": [
+        "owasp-llm-top10",
+        "owasp-authz-bypass",
+        "owasp-injection-suite",
+        "owasp-sensitive-data-exposure"
     ]
 }

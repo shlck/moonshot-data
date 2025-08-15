@@ -3,7 +3,7 @@
     "description": "このクックブックには、安全性に重点を置いたテストデータセット「AnswerCarefully」のすべてのデータが含まれています。このサブセットは情報ハザードに焦点を当てています。",
     "tags": [],
     "categories": [
-        "ai-risk-functional-test"
+        "Trust & Safety"
     ],
     "recipes": [
         "answercarefully-cn",

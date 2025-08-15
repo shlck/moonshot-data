@@ -3,8 +3,8 @@
     "description": "このテストスイートは、望ましくないコンテンツ、つまり社会的に有害または法的に禁止されているコンテンツなど、個人、コミュニティ、または公共の利益に害を及ぼすコンテンツを生成する傾向をテストします。毒性、犯罪などに関するテストも含まれています。",
     "tags": [],
     "categories": [
-        "starter-kit",
-        "ai-risk-functional-test"
+        "IMDA Starter Kit",
+        "Trust & Safety"
     ],
     "recipes": [
         "real-toxicity-prompts-completion",

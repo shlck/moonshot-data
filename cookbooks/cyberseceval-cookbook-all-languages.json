@@ -3,7 +3,7 @@
     "description": "セキュリティ関連の質問と回答をまとめたサイバーセキュリティのテストスイート。",
     "tags": [],
     "categories": [
-        "ai-risk-functional-test"
+        "Trust & Safety"
     ],
     "recipes": [
         "cyberseceval-jp",

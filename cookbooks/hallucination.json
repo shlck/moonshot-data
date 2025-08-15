@@ -3,8 +3,8 @@
     "description": "このテストスイートは、事実の正確性、すなわち様々な分野（例：数学、法律、社会学）にわたる一般知識と、シンガポールの象徴的な場所や政治史といった地域に関する事実を問うものです。解答は多肢選択式または記述式です。",
     "tags": [],
     "categories": [
-        "starter-kit",
-        "ai-risk-functional-test"
+        "IMDA Starter Kit",
+        "Trust & Safety"
     ],
     "recipes": [
         "mmlu"
