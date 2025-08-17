@@ -12,13 +12,13 @@
         "Capability"
     ],
     "recipes": [
-        "owasp-llm01",
-        "owasp-llm02",
-        "owasp-llm05",
-        "owasp-llm06",
-        "owasp-llm07",
-        "owasp-llm08",
-        "owasp-llm09",
-        "owasp-llm10"
+        "owasp-llm01-prompt-injection",
+        "owasp-llm02-sensitive-Information-disclosure",
+        "owasp-llm05-improper-output-handling",
+        "owasp-llm06-excessive-agency",
+        "owasp-llm07-system-prompt-leakage",
+        "owasp-llm08-vector-and-embedding-weaknesses",
+        "owasp-llm09-misinformation",
+        "owasp-llm10-unbounded-consumption"
     ]
 }
