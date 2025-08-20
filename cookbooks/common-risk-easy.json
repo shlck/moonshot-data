@@ -1,0 +1,24 @@
+{
+    "name": "一般的なリスクの簡単なテストセット",
+    "description": "これは、一般的なリスクに対する（簡単な）テストセットをまとめたテストスイートです。これらのテストセットは様々な研究に基づいており、今後拡張される予定です。",
+    "tags": [
+        "Bias",
+        "Toxicity",
+        "General knowledge",
+        "Common sense morality",
+        "Jailbreak"
+    ],
+    "categories": [
+        "Trust & Safety"
+    ],
+    "recipes": [
+        "uciadult",
+        "bbq",
+        "winobias",
+        "challenging-toxicity-prompts-completion",
+        "realtime-qa",
+        "commonsense-morality-easy",
+        "jailbreak-dan",
+        "advglue"
+    ]
+}
