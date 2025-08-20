@@ -1,0 +1,9 @@
+{
+    "name": "日本国内AI事業者ガイドライン",
+    "description": "AI事業者向け利用ガイドライン（経産省・総務省）に準拠し、国内で公開されている指針を網羅し、セキュリティ・プライバシー・透明性・公平性の観点から LLM／生成AI アプリケーションを総合的に評価できるテストデータセットです。",
+    "tags": ["Japan", "AI Provider", "Compliance", "Security", "Privacy", "Transparency", "Fairness"],
+    "categories": ["Capability"],
+    "recipes": [
+        "jailbreak-prompts"
+    ]
+  }

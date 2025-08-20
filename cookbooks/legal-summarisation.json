@@ -1,0 +1,19 @@
+{
+    "name": "法的要約",
+    "description": "このクックブックは、法的要約モデルの一般的な機能ベンチマークを実行します。",
+    "tags": [
+        "Summarisation",
+        "Legal"
+    ],
+    "categories": [
+         "Trust & Safety"
+    ],
+    "recipes": [
+        "analogical-similarity",
+        "auto-categorisation",
+        "cause-and-effect",
+        "contextual-parametric-knowledge-conflicts",
+        "gre-reading-comprehension",
+        "squad-shifts-tnf"
+    ]
+}
