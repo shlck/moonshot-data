@@ -1,0 +1,22 @@
+{
+    "name": "リーダーボードテストスイート",
+    "description": "このテストスイートは、HF の OpenLLM や HELM などのリーダーボードからインスピレーションを得ており、モデル機能をテストするための一般的なベンチマークを特徴としていますが、結果は実際のリーダーボードの順位とは異なる場合があります。",
+    "tags": [
+        "MMLU",
+        "Truthfulness",
+        "Common sense reasoning",
+        "Science",
+        "Math"
+    ],
+    "categories": [
+         "Trust & Safety"
+    ],
+    "recipes": [
+        "mmlu",
+        "truthfulqa-mcq",
+        "winogrande",
+        "hellaswag",
+        "arc",
+        "gsm8k"
+    ]
+}
